@@ -18,6 +18,7 @@ li{
 }
 li:hover{
   background-color: black;
+  cursor: pointer;
 }
 figcaption,ul,p{
   color: white;
