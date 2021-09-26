@@ -2,8 +2,27 @@ figure{
   display: inline-block;
   width: 30%;
   border: 2px solid green;
+  padding: 0;
+  margin: 1%;
 }
 img{
   width: 100%;
-  max-height: 300px;
+  height: 300px;
+}
+input[type="email"],input[type="text"],select,textarea{
+  width: 100%;
+  padding: 10px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  box-sizing: border-box;
+  margin: 5px 0 16px 0;
+  resize: vertical;
+}
+input[type=submit]:hover{
+  background-color: #45a049;
+}
+.form{
+  border: 5px;
+  background-color: #7a7676;
+  padding: 20px;
 }
