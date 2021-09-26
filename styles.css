@@ -1,3 +1,9 @@
+body{
+  background-color: black;
+}
+figcaption,ul,p{
+  color: white;
+}
 figure{
   display: inline-block;
   width: 30%;
