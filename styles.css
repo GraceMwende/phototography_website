@@ -28,7 +28,6 @@ figcaption,ul,p{
 figure{
   display: inline-block;
   width: 30%;
-  border: 2px solid green;
   padding: 0;
   margin: 1%;
 }
