@@ -22,6 +22,12 @@ li:hover{
   background-color: black;
   cursor: pointer;
 }
+.biography{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  border:1px solid gray;
+  padding: 20px;
+  border-radius: 4px;
+}
 figcaption,ul,p{
   color: white;
 }
