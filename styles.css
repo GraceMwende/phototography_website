@@ -2,8 +2,8 @@ body{
   background-color: black;
   margin: 0px;
   padding: 0px;
-  font-family:'Times New Roman', Times, serif;
-}a{
+  }
+  a{
   color: white;
 }
 ul{
@@ -30,6 +30,8 @@ li:hover{
 }
 figcaption,ul,p{
   color:#DBD6C1;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
 figure{
   display: inline-block;
