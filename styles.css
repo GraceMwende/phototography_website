@@ -1,6 +1,6 @@
 body{
   background-color: black;
-  margin: 0px;
+  margin: 0 0 0 5px;
   padding: 0px;
   }
   a{
@@ -21,6 +21,7 @@ li{
 li:hover{
   background-color: black;
   cursor: pointer;
+  color: yellow;
 }
 .biography{
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -59,6 +60,10 @@ input[type=submit]:hover{
   border: 5px;
   background-color: #7a7676;
   padding: 20px;
+}
+h1{
+  color:yellow;
+  text-align: center;
 }
 footer{
   display: flex;
