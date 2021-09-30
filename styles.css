@@ -24,10 +24,10 @@ li:hover{
   color: yellow;
 }
 .biography{
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   border:1px solid gray;
   padding: 20px;
   border-radius: 4px;
+  font-weight: 700;
 }
 #photo-heading{
   text-decoration: overline;
@@ -63,6 +63,7 @@ input[type=submit]:hover{
   border: 5px;
   background-color: #7a7676;
   padding: 20px;
+  overflow: scroll;
 }
 h1{
   color:yellow;
