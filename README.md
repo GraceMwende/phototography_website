@@ -1,8 +1,8 @@
 # Photography website
 Details my favourite events
-# Tools Used
+## Tools Used
 HTML & CSS
-# LIVE LINK
+## LIVE LINK
 https://grace-micheni.github.io/phototography_website/
-# Licenses
+## Licenses
 GNU General Public License v3.0
