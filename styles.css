@@ -29,7 +29,7 @@ li:hover{
   border-radius: 4px;
 }
 figcaption,ul,p{
-  color: white;
+  color:#DBD6C1;
 }
 figure{
   display: inline-block;
@@ -57,4 +57,9 @@ input[type=submit]:hover{
   border: 5px;
   background-color: #7a7676;
   padding: 20px;
+}
+footer{
+  display: flex;
+  justify-content: space-evenly;
+  color:#8c8b8b
 }
