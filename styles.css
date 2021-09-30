@@ -29,6 +29,9 @@ li:hover{
   padding: 20px;
   border-radius: 4px;
 }
+#photo-heading{
+  text-decoration: overline;
+}
 figcaption,ul,p{
   color:#DBD6C1;
   text-align: center;
@@ -68,5 +71,7 @@ h1{
 footer{
   display: flex;
   justify-content: space-evenly;
-  color:#8c8b8b
+}
+footer p{
+  color: yellow;
 }
